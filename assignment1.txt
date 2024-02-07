@@ -1,0 +1,6 @@
+1)Difference between article and paragraph in html ?
+<p> creates a new paragraph, which are typically separated by whitespace and represented as a block of text.
+<article> is basically only a container ,is used for encapsulating self-contained.
+2)Difference Between Div & Section in HTML ?
+div It is mostly used for grouping related elements together and applying styling to them via CSS.
+section represents a specific section of a web page with a distinct topic or purpose.
